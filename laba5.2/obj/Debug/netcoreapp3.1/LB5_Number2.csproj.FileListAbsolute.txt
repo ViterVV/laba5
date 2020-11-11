@@ -1,0 +1,4 @@
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_2\obj\Debug\netcoreapp3.1\LB5_Number2.csprojAssemblyReference.cache
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_2\obj\Debug\netcoreapp3.1\LB5_Number2.AssemblyInfoInputs.cache
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_2\obj\Debug\netcoreapp3.1\LB5_Number2.AssemblyInfo.cs
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_2\obj\Debug\netcoreapp3.1\LB5_Number2.csproj.CoreCompileInputs.cache

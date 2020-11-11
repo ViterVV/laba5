@@ -1,0 +1,13 @@
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\bin\Debug\netcoreapp3.1\LB5_Number3.exe
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\bin\Debug\netcoreapp3.1\LB5_Number3.deps.json
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\bin\Debug\netcoreapp3.1\LB5_Number3.runtimeconfig.json
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\bin\Debug\netcoreapp3.1\LB5_Number3.runtimeconfig.dev.json
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\bin\Debug\netcoreapp3.1\LB5_Number3.dll
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\bin\Debug\netcoreapp3.1\LB5_Number3.pdb
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.csprojAssemblyReference.cache
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.AssemblyInfoInputs.cache
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.AssemblyInfo.cs
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.csproj.CoreCompileInputs.cache
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.dll
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.pdb
+C:\Users\ІгорВолошин\Desktop\OOP_LB5-master\laba_5_3\obj\Debug\netcoreapp3.1\LB5_Number3.genruntimeconfig.cache
